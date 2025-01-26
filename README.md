@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm ANJANA P 
 
 🎓 **AI & Data Science Graduate**  
 
