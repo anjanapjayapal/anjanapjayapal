@@ -12,8 +12,8 @@
 - **Languages:** Python, SQL 
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Databases:** MySQL, PostgreSQL
-- **Other Tools:** Git, Jupyter Notebook, VS Code  
+- **Databases:** MySQL
+- **Other Tools:** Jupyter Notebook, VS Code  
 
 ## 📫 Connect With Me  
 📧 Email: [anjanapjayapal@gmail.com] 
