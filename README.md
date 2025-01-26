@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 - 🎓 I hold a **Bachelor's degree in AI & Data Science** from **APJ Abdul Kalam Technological University (2020-2024)**.  
 - 🏆 Passionate about **Machine Learning, Deep Learning, and AI Research**.  
-- 🔍 Focused on **Data Science, Computer Vision, Machine Learning**.   
+- 🔍 Focused on **Data Science and Machine Learning**.   
 - 🎯 Aspiring to build AI-driven solutions that impact real-world applications.  
 
 ## 🛠️ Tech Stack  
