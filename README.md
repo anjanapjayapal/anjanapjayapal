@@ -1,8 +1,8 @@
-# 👋 Hi, I'm ANJANA P 
+# 👋 Hello I'm ANJANA P ☺️
+**Welcome to my GitHub👩🏼‍💻, a space where I share my learning journey and celebrate every step of my progress.😎**
+  
 
-🎓 **AI & Data Science Graduate**  
-
-## 🚀 About Me  
+## ME Section 😒
 - 🎓 I hold a **Bachelor's degree in AI & Data Science** from **APJ Abdul Kalam Technological University (2020-2024)**.  
 - 🏆 Passionate about **Machine Learning, Deep Learning, and AI Research**.  
 - 🔍 Focused on **Data Science and Machine Learning**.   
@@ -13,6 +13,7 @@
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 - **Databases:** MySQL
+- **Front-end:** HTML, CSS
 - **Other Tools:** Jupyter Notebook, VS Code  
 
 ## 📫 Connect With Me  
@@ -21,7 +22,6 @@
 
 ---
 
-### 🚀 Let's collaborate on exciting AI & ML projects!  
 
 
 <!---
